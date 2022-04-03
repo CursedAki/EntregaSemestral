@@ -2,6 +2,10 @@ body {
   margin: 0em;
   font-family: 'Inter', sans-serif;
 }
+
+h1,h2,h3,h4,h5{
+  font-family: 'Fjalla One', sans-serif;
+}
 .cover {
   height: 280px;
   background-image: url(https://cdn.glitch.global/fd2b3fa9-cc2a-4c35-a485-87f21e604780/rsz_a.jpg?v=1648939305448);
